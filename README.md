@@ -24,7 +24,7 @@ Puedes realizar un <b>fork</b> de este repositorio y agregar tu propio conjunto 
 ---
 ### 🗺️ Nuestras redes sociales:
 
-En dado caso de que desees comunicarte directamente con nosotros, puedes hacerlo a través de nuestras redes sociales(aprovecha también la oportunidad de seguirnos en ellas 😄), o escribirnos un correo electrónico a la dirección educa2ucv@gmail.com:
+En dado caso de que desees comunicarte directamente con nosotros, puedes hacerlo a través de nuestras redes sociales, puedes aprovechar también la oportunidad de seguirnos en ellas 😄:
 
 - [Faceboook][fb]
 - [Instagram][ig]
