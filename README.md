@@ -1,3 +1,7 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/educa2ucv/libreria?color=%23229395&label=Last%20commit&logo=git&logoColor=%23fff&style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/educa2ucv/libreria?color=%237acbcd&logo=github&logoColor=%23fff&style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/educa2ucv/libreria?color=%23229395&logo=github&logoColor=%23fff&style=for-the-badge)
+
 # Librería de [Educa2][website] 📚
 ### 👨🏻‍🏫 ¡Domina las Matemáticas y Programación! 👩🏻‍🏫
 ---
