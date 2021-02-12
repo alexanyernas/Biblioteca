@@ -14,7 +14,7 @@
 - C
 - Java
 - Bases de Datos 
-- Buenas prácticas de programación
+- Consejos
 - ¡Y mucho más!
 
 ---
