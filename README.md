@@ -21,7 +21,7 @@
 
 ### 🙌 Si deseas colaborar:
 
-Puedes realizar un <b>fork</b> de este repositorio y agregar tu propio conjunto de libros o recomendaciones para así luego de revisar, ejecutar un <b>pull request</b> y todos podamos ver nuevo contenido.
+Puedes realizar un <b>fork</b> de este repositorio y agregar tu propio conjunto de libros o recomendaciones para así luego de revisar, ejecutar un <b>pull request</b> y todos podamos acceder a nuevas bibliografías.
 
 ---
 ### 🗺️ Nuestras redes sociales:
