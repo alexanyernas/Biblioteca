@@ -31,6 +31,7 @@ En dado caso de que desees comunicarte directamente con nosotros, puedes hacerlo
 - [Faceboook][fb]
 - [Instagram][ig]
 - [Twitter][tw]
+- [Discord][discord]
 
 ---
 ### ❤️ Donaciones:
@@ -45,3 +46,4 @@ A través de las donaciones tenemos la oportunidad de adquirir nuevos materiales
 [tw]: https://twitter.com/educa2ucv/
 [ig]: https://instagram.com/educa2ucv/
 [paypal]: https://paypal.me/alegiannattasio/
+[discord]: https://discord.gg/Xn4RnfkjcZ 
