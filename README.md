@@ -32,8 +32,16 @@ En dado caso de que desees comunicarte directamente con nosotros, puedes hacerlo
 - [Instagram][ig]
 - [Twitter][tw]
 
+---
+### ❤️ Donaciones:
+
+A través de las donaciones tenemos la oportunidad de adquirir nuevos materiales de grabación para nuestras clases y cursos, además de organizar eventos educativos donde todos podamos participar y aprender cada día. Si deseas ayudarnos, puedes hacerlo en el siguiente enlace ⏬
+
+- [PayPal][paypal]
+
 <!-- Enlaces -->
 [website]: https://educa2.net/
 [fb]: https://facebook.com/educa2ucv/
 [tw]: https://twitter.com/educa2ucv/
 [ig]: https://instagram.com/educa2ucv/
+[paypal]: https://paypal.me/alegiannattasio/
