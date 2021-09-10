@@ -1,10 +1,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/educa2ucv/libreria?color=%23229395&label=Last%20commit&logo=git&logoColor=%23fff&style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors/educa2ucv/libreria?color=%237acbcd&logo=github&logoColor=%23fff&style=for-the-badge) ![GitHub repo size](https://img.shields.io/github/repo-size/educa2ucv/libreria?color=%23229395&logo=github&logoColor=%23fff&style=for-the-badge)
 
-# Librería de [Educa2][website] 📚
-### 👨🏻‍🏫 ¡Domina las Matemáticas y Programación! 👩🏻‍🏫
+# Biblioteca 📚
 ---
 
-<p>En este repositorio te encontrarás con un conjunto de libros que hemos recolectado para ti y tengas la posibilidad de mejorar tus habilidades como programador y desarrollador en aquellas tecnologías en las que deseas aprender mucho más.</p>
+Los libros son una fuente de conocimiento que sin importar cuánto tiempo transcurra, siempre serán de gran utilidad para todos nosotros. Por ello, en este repositorio me he encargado de coleccionar varios libros en formato PDF sobre aquellas tecnologías o áreas de interés para que así mejores tus habilidades como programador o aprendas sobre ese tema que tantos ánimos has tenido.
 
 ### 📝 Tendrás a disposición libros sobre:
 
@@ -13,7 +12,6 @@
 - C++
 - C
 - Java
-- Bases de Datos 
 - Consejos
 - ¡Y mucho más!
 
@@ -21,29 +19,24 @@
 
 ### 🙌 Si deseas colaborar:
 
-Puedes realizar un <b>fork</b> de este repositorio y agregar tu propio conjunto de libros o recomendaciones para así luego de revisar, ejecutar un <b>pull request</b> y todos podamos acceder a nuevas bibliografías.
+Más abajo encontrarás mis redes sociales donde a través de éstas, podrás comunicarte conmigo directamente y así indicarme aquellas bibliografías o temas de interés que te gustaría que agregase en futuras actualizaciones al repositorio.
 
 ---
-### 🗺️ Nuestras redes sociales:
+### 🗺️ Redes sociales:
 
-En dado caso de que desees comunicarte directamente con nosotros, puedes hacerlo a través de nuestras redes sociales, puedes aprovechar también la oportunidad de seguirnos en ellas 😄:
+Lo mejor de la programación es que hay muchas personas dispuestas en ayudar a quienes lo necesite y yo admito que me encanta ser una de esas personas que tanto ayuda. Así que, te dejo mis enlaces a redes sociales que utilizo con mayor frecuencia y no tengas miedo de preguntarme, que más allá de un profesor, soy un amigo que le encanta el café y las galletas ☕
 
 - [Faceboook][fb]
-- [Instagram][ig]
 - [Twitter][tw]
-- [Discord][discord]
 
 ---
 ### ❤️ Donaciones:
 
-A través de las donaciones tenemos la oportunidad de adquirir nuevos materiales de grabación para nuestras clases y cursos, además de organizar eventos educativos donde todos podamos participar y aprender cada día. Si deseas ayudarnos, puedes hacerlo en el siguiente enlace ⏬
+No es obligatorio pero si deseas colaborar, estaría enormemente agradecido contigo. Pero mi más grande satisfacción es saber que con esta iniciativa, estaré ayudando a muchas personas en mejorar su educación en este mundo tan amplio como lo es la programación.
 
 - [PayPal][paypal]
 
 <!-- Enlaces -->
-[website]: https://educa2.net/
-[fb]: https://facebook.com/educa2ucv/
-[tw]: https://twitter.com/educa2ucv/
-[ig]: https://instagram.com/educa2ucv/
-[paypal]: https://paypal.me/alegiannattasio/
-[discord]: https://discord.gg/Xn4RnfkjcZ 
+[fb]: https://facebook.com/alexanyernas/
+[tw]: https://twitter.com/alexanyernas/
+[paypal]: https://paypal.me/alexanyernas/
