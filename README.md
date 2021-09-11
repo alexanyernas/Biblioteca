@@ -32,7 +32,7 @@ Lo mejor de la programación es que hay muchas personas dispuestas en ayudar a q
 ---
 ### ❤️ Donaciones:
 
-Hay muchas formas de apoyar este proyecto (compartiéndolo con tus amigos, haciendo retweet, realizando alguna donación, entre otros). Pero mi más grande satisfacción es saber que con esta iniciativa, estaré ayudando a muchas personas en mejorar su educación en este mundo tan amplio como lo es la programación.
+Hay muchas formas de apoyar este proyecto (compartiéndolo con tus amigos, haciendo retweet, realizando alguna donación, entre otros). Mi más grande satisfacción es saber que con esta iniciativa, estaré ayudando a muchas personas en mejorar su educación en este mundo tan amplio como lo es la programación.
 
 - [PayPal][paypal]
 
